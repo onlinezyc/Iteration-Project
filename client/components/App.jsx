@@ -30,7 +30,7 @@ const user = {
   state: 'new_york',
   favorites: ['nyc brew', 'brew4life'],
 };
-
+// const user = null;
 //If don't want user logged in then uncomment below....
 // const user = undefined;
 
